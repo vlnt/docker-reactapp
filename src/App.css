@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.Docker-logo {
+  height: 30vmin;
+
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,7 +19,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #114252;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
